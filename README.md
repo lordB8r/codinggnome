@@ -1,6 +1,6 @@
 # Dictionary
 
-**TODO: Add description**
+**This is based on the Coding Gnome exercise for Elixir**
 
 ## Installation
 
