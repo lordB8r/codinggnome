@@ -10,6 +10,14 @@ defmodule Dictionary do
     word_list() 
     |> Enum.random()
   end
+
+  def reversl({ a, b }) do
+    {b, a}
+  end
+
+  def simlr({a, b}) do
+    ^a=b
+  end
 end
 
 
