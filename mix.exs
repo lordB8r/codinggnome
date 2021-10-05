@@ -3,7 +3,7 @@ defmodule Dictionary.MixProject do
 
   def project do
     [
-      app: :dictionary,:patterns
+      app: :dictionary,
       version: "0.1.0",
       elixir: "~> 1.11.2",
       start_permanent: Mix.env() == :prod,
